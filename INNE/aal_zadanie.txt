@@ -1,0 +1,5 @@
+W uk³adzie wspó³rzêdnych XOY znajduje siê n punktów. Jeden z tych punktów jest wyró¿niony. Nale¿y znaleŸæ wielok¹t wypuk³y o wierzcho³kach wybranych z podanego zbioru punktów oraz wyró¿nionego punktu, który posiada maksymaln¹ liczbê wierzcho³ków (w jednym wariancie) lub pokrywa maksymaln¹ liczb¹ punktów z wejœciowego zbioru (w drugim wariancie).
+
+In OXY there are N points. One of them is marked. You should find a CONVEX polygon with all of its vertices chosen from the set AND the one, which is marked.
+a) it should have maximal number of vertices
+b) it should cover maximal number of points from the set
